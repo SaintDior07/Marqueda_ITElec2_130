@@ -13,7 +13,7 @@ class ListActivity2 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_list2)
 
-        var array = arrayOf("Python", "Java", "Php", "Hadoop", "Sap", "Python", "Ajax", "C++", "Ruby", "Rails", ".Net", "Perl")
+        var array = arrayOf("Shut Down", "Stay", "Tally", "Pink Venom", "Ready For Love", "Happiest Girl", "Hard To Love", "Yeah Yeah Yeah", "Really", "As If It's Your Last", "Ddu du ddu du", "Whistle")
 
 
             val adapter = ArrayAdapter(this,
