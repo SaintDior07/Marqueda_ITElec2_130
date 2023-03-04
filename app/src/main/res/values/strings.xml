@@ -3,5 +3,24 @@
     <string name="reminder">reminder</string>
     <string name="done">done</string>
     <string name="times">times</string>
+    <string name="search_button">SEARCH</string>
+    <string name="vcvxv_eme">Name</string>
+    <string name="ninja_text">Ninja</string>
+    <string name="pirate_textt">Pirate</string>
+    <string name="cats_text">Cats</string>
+    <string name="dogs_text">Dogs</string>
+    <string name="togglebutton_text">ToggleButton</string>
+    <string name="toggles_text">Toggles</string>
+
+    <string-array name="characters">
+        <item>Select a robot:</item>
+        <item>R2-D2</item>
+        <item>BB-8</item>
+        <item>C-3PO</item>
+        <item>Dalek</item>
+        <item>Robble</item>
+        <item>Gart</item>
+        <item>Optimus Prime</item>
+    </string-array>
 
 </resources>
