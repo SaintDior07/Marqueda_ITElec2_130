@@ -10,7 +10,7 @@ import com.example.trishaintent.databinding.ActivityMainBinding;
 
 public class SecondActivity extends AppCompatActivity {
 
-    private ActivityMainBinding binding;
+    private SecondActivity binding;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
